@@ -6,7 +6,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uncogeek)
   [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](http://uncogeek.com)
   [![GitHub followers](https://img.shields.io/github/followers/uncogeek?style=for-the-badge)](https://github.com/uncogeek)
-  [![Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/uncogeek)
   
   <img src="https://github-profile-trophy.vercel.app/?username=uncogeek&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
