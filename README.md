@@ -7,7 +7,7 @@
   [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](http://uncogeek.com)
   [![GitHub followers](https://img.shields.io/github/followers/uncogeek?style=for-the-badge)](https://github.com/uncogeek)
   
-  <img src="https://github-profile-trophy.vercel.app/?username=uncogeek&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=uncogeek&theme=darkhub&column=9&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ## 💫 About Me
